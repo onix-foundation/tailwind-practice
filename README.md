@@ -1,6 +1,6 @@
 # tailwind-practice
 
-Queridos amigos estoy haciendo el siguiente tutorial de tailwindcss...
+El tutorial me parecio 10 de 10... super recomendado y muy facil de seguir todo lo que dice el instructor.
 
 <a href="https://www.youtube.com/watch?v=3ZMUgga6SsY" target="_blank">Tutorial de The Net Ninja</a>
 
